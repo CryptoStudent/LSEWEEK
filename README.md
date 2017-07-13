@@ -1,6 +1,21 @@
 # LSE WEEK 2017
 
 Tutorial for mining easily.
+1. [Create a Wallet](#create-a-wallet)
+   * [Ehtereum](#ethereum)
+   * [Zcash](#zcash)
+   * [Bitcoin](#bitcoin)
+2. [Mining](#mining)
+   * [Mining Pool Hub](#mining-pool-hub)
+   * [Zcash](#zcash-mining)
+   * [Ethereum](#ethereum-mining)
+   * [Dual Mining](#dual-mining-ethereum--siacoin)
+3. [Buy/Sell Cryptocurrency](#exchangebuysell-cryptocurrency)
+   * [Coinbase](#coinbase)
+   * [Poloniex/Bittrex](#poloniex--bittrex)
+   * [Livecoin](#livecoin)
+   
+     
 
 ## Create a Wallet
 
