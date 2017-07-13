@@ -2,7 +2,7 @@
 
 Tutorial for mining easily.
 1. [Create a Wallet](#create-a-wallet)
-   * [Ehtereum](#ethereum)
+   * [Ethereum](#ethereum)
    * [Zcash](#zcash)
    * [Bitcoin](#bitcoin)
 2. [Mining](#mining)
