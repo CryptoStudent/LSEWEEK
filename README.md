@@ -84,3 +84,22 @@ EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal [YOURETHEREUMADRESS].[YOUR
 EthDcrMiner64.exe -epool eu1.ethermine.org:14444 -ewal [YOURETHEREUMADRESS].[YOURWORKERNAME] -esm 2 -epsw x -allpools 1 -dpool stratum+tcp://hub.miningpoolhub.com:20550 -dwal [YOURMPHUSERNAME].[YOURWORKERNAME] -dpsw x -dcoin sc
 ```
 
+## Exchange/Buy/Sell Cryptocurrency
+
+### Coinbase
+
+Great website to buy and sell Bitcoin/Ethereum/Litecoin
+[Coinbase](https://www.coinbase.com/)
+
+### Poloniex / Bittrex
+
+Great website for buying and selling a lot of currencies and Altcoins but less user-friendly
+[Poloniex](https://poloniex.com/) , [Bittrex](https://bittrex.com/)
+
+### Livecoin
+
+Great website for buying and selling new currencies.
+[Livecoin](https://www.livecoin.net)
+
+
+
