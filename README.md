@@ -1,6 +1,6 @@
 # LSE WEEK 2017
 
-Programs and scripts for mining.
+Tutorial for mining easily.
 
 ## Create a Wallet
 
