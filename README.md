@@ -122,7 +122,21 @@ Great website for buying and selling new currencies.
 
 Great website that tells you what is the most profitable coin to mine depending on your hardware.
 [What To Mine](https://whattomine.com/coins)
-![Image](https://github.com/CryptoStudent/LSEWEEK/blob/master/whattomine.png)
 
+### Crypto Compare
+
+Great website to get mnore information on Mining, Wallets, different coins, and portfolio.
+[Crypto Compare](https://www.cryptocompare.com)
+
+### Youtube Node Investor
+
+Interesting Youtube Channel around Bitcoin & Altcoins
+[Node Investor Youtube](https://www.youtube.com/channel/UCa81HAp1se359Sr5qEMMP7A)
+
+## Contact
+
+You can ask us any questions by creating an issue.
+
+Created by Antidote
 
 
