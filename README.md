@@ -121,7 +121,8 @@ Great website for buying and selling new currencies.
 ### What To Mine
 
 Great website that tells you what is the most profitable coin to mine depending on your hardware.
-[What To Mine][https://whattomine.com/coins]
+[What To Mine](https://whattomine.com/coins)
+![Image](https://github.com/CryptoStudent/LSEWEEK/blob/master/whattomine.png)
 
 
 
