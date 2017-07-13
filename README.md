@@ -2,7 +2,21 @@
 
 Programs and scripts for mining.
 
-## Mining Pool Hub
+## Create a Wallet
+
+### Ethereum
+
+1. Online Wallet, accessible anywhere [MyEtherWallet](https://www.myetherwallet.com/)
+2. Offline Wallet, [Exodus](https://www.exodus.io/)
+
+### Zcash
+1. Online Wallet, accessible anywhere Web And Android [Cryptonator](https://fr.cryptonator.com/). Also a wallet for Bitcoin, dash, Litecoin, Monero.
+
+### Bitcoin
+1. Online Wallet, [Coinbase](https://www.coinbase.com/).
+
+
+### Mining Pool Hub
 
 Auto-switch algorithm script. Best profitability.
 
