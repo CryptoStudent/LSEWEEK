@@ -116,5 +116,12 @@ Great website for buying and selling a lot of currencies and Altcoins but less u
 Great website for buying and selling new currencies.
 [Livecoin](https://www.livecoin.net)
 
+## Interesting Links
+
+### What To Mine
+
+Great website that tells you what is the most profitable coin to mine depending on your hardware.
+[What To Mine][https://whattomine.com/coins]
+
 
 
