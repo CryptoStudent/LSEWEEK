@@ -16,6 +16,8 @@ Programs and scripts for mining.
 1. Online Wallet, [Coinbase](https://www.coinbase.com/).
 
 
+## Mining
+
 ### Mining Pool Hub
 
 Auto-switch algorithm script. Best profitability.
@@ -44,6 +46,16 @@ powershell -version 5.0 -noexit -executionpolicy bypass -windowstyle maximized -
 
 MPH will automatically pay you once the threshold has been reached.
 Enjoy !
+
+### Zcash Mining
+
+1. Go to [Flypool](https://zcash.flypool.org/).
+2. Follow tutorial according to your GPU(AMD/NVIDIA)
+3. Use EWBF for NVIDIA, Claymore Miner for AMD.
+4. Example of start.bat for EWBF, [WORKERNAME] can be anything.
+```shell
+miner --server eu1-zcash.flypool.org --port 3333 --user [YOURWALLETADDRESS].[YOURWORKERNAME] --pass x --cuda_devices 0 1 2 3
+```
 
 
 
