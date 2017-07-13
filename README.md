@@ -49,13 +49,38 @@ Enjoy !
 
 ### Zcash Mining
 
-1. Go to [Flypool](https://zcash.flypool.org/).
+1. Go to [Flypool](https://zcash.flypool.org/)
 2. Follow tutorial according to your GPU(AMD/NVIDIA)
-3. Use EWBF for NVIDIA, Claymore Miner for AMD.
-4. Example of start.bat for EWBF, [WORKERNAME] can be anything.
+3. Use EWBF for NVIDIA, Claymore Miner for AMD
+4. Example of start.bat for EWBF to place in the folder, [WORKERNAME] can be anything
 ```shell
-miner --server eu1-zcash.flypool.org --port 3333 --user [YOURWALLETADDRESS].[YOURWORKERNAME] --pass x --cuda_devices 0 1 2 3
+miner --server eu1-zcash.flypool.org --port 3333 --user [YOURZCASHADDRESS].[YOURWORKERNAME] --pass x --cuda_devices 0 1 2 3
 ```
 
+### Ethereum Mining
 
+1. Go to [Ethermine](https://ethermine.org/)
+2. Follow tutorial
+3. Download Claymores Miner
+4. Example of start.bat for NVIDIA and AMD to place in the folder.
+```shell
+## NVIDIA
+EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal [YOURETHEREUMADRESS].[YOURWORKERNAME] -epsw x
+## AMD
+setx GPU_FORCE_64BIT_PTR 0
+setx GPU_MAX_HEAP_SIZE 100
+setx GPU_USE_SYNC_OBJECTS 1
+setx GPU_MAX_ALLOC_PERCENT 100
+setx GPU_SINGLE_ALLOC_PERCENT 100
+EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal [YOURETHEREUMADRESS].[YOURWORKERNAME] -epsw x
+```
+
+### Dual Mining Ethereum + Siacoin
+1. Go to [Ethermine](https://ethermine.org/)
+2. Download Claymores Miner
+3. Create an account at [MiningPoolHub](https://miningpoolhub.com/index.php?page=register)
+4. Create a start.bat
+```shell
+EthDcrMiner64.exe -epool eu1.ethermine.org:14444 -ewal [YOURETHEREUMADRESS].[YOURWORKERNAME] -esm 2 -epsw x -allpools 1 -dpool stratum+tcp://hub.miningpoolhub.com:20550 -dwal [YOURMPHUSERNAME].[YOURWORKERNAME] -dpsw x -dcoin sc
+```
 
