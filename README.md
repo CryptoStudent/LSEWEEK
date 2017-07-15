@@ -134,6 +134,11 @@ Great website to get mnore information on Mining, Wallets, different coins, and 
 Interesting Youtube Channel around Bitcoin & Altcoins
 [Node Investor Youtube](https://www.youtube.com/channel/UCa81HAp1se359Sr5qEMMP7A)
 
+## LSE Summer Week 2017 Presentation
+
+If you want to see the Powerpoint that was presented during the presentation.
+[How to Mine using the Blockchain PDF](https://github.com/CryptoStudent/LSEWEEK/blob/master/LSE%20WEEK.pdf)
+
 ## Contact
 
 You can ask us any questions by creating an issue.
